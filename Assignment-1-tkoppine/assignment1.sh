@@ -1,7 +1,7 @@
 # Database Connection
 
 DB_USR="postgres"
-DB_PWD="postgres"
+DB_PWD="enter your password here"
 DB_NAME="postgres"
 DB_HOST="127.0.0.1"
 DB_PORT="5432"
