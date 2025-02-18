@@ -9,7 +9,7 @@ import math
 # Lets define some of the essentials
 # We'll define these as global variables to keep it simple
 username = "postgres"
-password = "postgres"
+password = "enter pwd here"
 dbname = "assignment5"
 host = "127.0.0.1"
 
